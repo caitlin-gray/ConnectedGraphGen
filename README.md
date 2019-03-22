@@ -1,7 +1,7 @@
 # ConnectedGraphGen
 Code to generate connected random networks by MCMC methods.
 
-Conations code for generation of connected random graphs, specifically Spatially Embedded Random Networks (SERNs), such as the Waxman random graph.  The algorithm uses MCMC methods to sample from the distribution of interested conditioned on connectivity. See [1]
+Python code for generation of connected random graphs, specifically Spatially Embedded Random Networks (SERNs), such as the Waxman random graph.  The algorithm uses MCMC methods to sample from the distribution of interested conditioned on connectivity. See [1]
 
 ### Contents
 The scripts are:
